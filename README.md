@@ -25,12 +25,6 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
 
 ### Instructor
 
@@ -43,4 +37,4 @@ Machine learning developer and data scientist
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/martin-kemka).
 
 [lil-course-url]: https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans?dApp=59033956
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/C560DAQHO_1qT7sPQeg/learning-public-crop_288_512/0/1680021564635?e=2147483647&v=beta&t=A1MB5pB5xx8s1zvGwbdieWpecPVjxYJrkCForXEZfrI
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHvholt6Ju2vw/learning-public-crop_675_1200/0/1680211769471?e=2147483647&v=beta&t=jvDjzCtoh3zaew8AGTccbLni0mxkU7LiVlf1Wg7-G94
